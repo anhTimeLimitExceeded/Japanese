@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">dca18ff1-73af-4483-b512-c7658b1a8472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57ad4418-aa50-4489-90a4-4a868e009376</dc:identifier>
+        <dc:title>バカとテストと召喚獣 04</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">井上堅二</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-16T05:00:00+00:00</dc:date>
+        <dc:publisher>KADOKAWA / エンターブレイン</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
